@@ -1,0 +1,10 @@
+.idea
+*.iws
+*.ipr
+*.iml
+*.merge*
+target
+.settings
+.classpath
+.project
+.sonar-ide.properties
